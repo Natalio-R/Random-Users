@@ -1,4 +1,4 @@
-### Introducción
+# Introducción
 
 Esto es una prueba básica donde se muestra una lista de usuarios random. Los datos son godiso de la API [RandomUser.me](https://randomuser.me/).
 
@@ -8,11 +8,6 @@ Usando PHP para hacer la petición a la API, recoger los datos en formatos JSON 
 
 A continuación se explica brevemente que hace cada archivo y como se ha desarrollado esta pequeña prueba.
 
-**Contenido**
-
-[TOCM]
-
-[TOC]
 
 ## HTML(index.html)
 
